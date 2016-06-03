@@ -1,0 +1,13 @@
+var myArray = [{
+"display": "The Boy",
+"url": "http://www.allocine.fr/film/fichefilm_gen_cfilm=235019.html",
+"imageUrl": "http://www.cinetrafic.fr/images/affiches/medium/aff_68704672620151224160918.jpg?1453701173"
+}, {
+"display": "Devil Inside",
+"url": "http://www.allocine.fr/film/fichefilm_gen_cfilm=193483.html",
+"imageUrl": "http://www.cinetrafic.fr/images/affiches/big/aff_985020131220124008.jpg?1453673223"
+}, {
+"display": "Le dernier exorcisme",
+"url": "http://www.allocine.fr/film/fichefilm_gen_cfilm=179426.html",
+"imageUrl": "http://www.cinetrafic.fr/images/affiches/big/aff_553620131220124359.jpg?1453709812"
+}];
