@@ -3,7 +3,8 @@ margin:0;
 padding:0;
 }
 body {
-  background-image: url(http://img1.mxstatic.com/wallpapers/37a3f26f95e698ef3b4effd9ec8da815_large.jpeg);
+  background-image: url(http://img1.mxstatic.com/wallpapers/37a3f26f95e698ef3b4effd9ec8da815_large.jpeg) no-repeat;
+  background-size:cover;
   opacity: 0.;
 }
 header {
@@ -69,5 +70,5 @@ footer {
   background-color: black;
   color: white;
   margin-bottom: 0;
-  clear: both;
+  position: relative;
 }
